@@ -1,4 +1,4 @@
-## A landing page web site for a CCR agent
+## A landing page for a Telecom Customer Care agent
 
 ## 🛠️ Built With
 
